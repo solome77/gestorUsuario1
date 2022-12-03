@@ -1,0 +1,52 @@
+
+body{
+    
+    background-color: lightblue;
+    border-color: orange;
+    color:black;
+    padding-bottom: 70px;
+    margin-bottom: 0%;
+    padding-top: 0%;
+    width: 100%;  
+    
+} 
+
+#navb {
+    float: left;
+    margin-top: 10px;
+    width: 250px;
+}
+
+#navb li{
+    margin-right: 8%;
+    float: left;
+    list-style: none outside none;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: auto;
+}
+
+
+
+
+
+.container-fluid{
+    margin-right: 0%;
+}
+
+.text-danger{
+    padding-bottom:3px;
+}
+
+.btn-group {
+    
+    padding: 20;
+    width: 150;
+}
+.text-center {
+margin-bottom: 0px;
+}
+
+
+
+
